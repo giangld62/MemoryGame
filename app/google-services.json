@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417366185297",
+    "project_id": "my-memory-7557d",
+    "storage_bucket": "my-memory-7557d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417366185297:android:71baa226d071552ea8ef70",
+        "android_client_info": {
+          "package_name": "com.giangle.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417366185297-vh8kop4ci6k0vn43p5bsavnk7ajio8k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSC1Y2lGS3Hxhq2abCbh6zFzMH3BYddhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417366185297-vh8kop4ci6k0vn43p5bsavnk7ajio8k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
